@@ -1,0 +1,13 @@
+
+.navbar .nav-item .nav-link:hover {
+	border-radius: 10px;
+	color: orange !important;
+	background-color:transparent !important;
+	transition: 0.7s;
+}
+
+.navbar ul li a {
+	margin-left:10px;
+	margin-right:10px;
+	color: black;
+}

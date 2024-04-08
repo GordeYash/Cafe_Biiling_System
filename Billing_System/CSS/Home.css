@@ -1,0 +1,11 @@
+.bg-image {
+	position:relative;
+	background-image:  url("/Billing_System/Images/Bg.jpeg");
+	background-repeat: no-repeat;
+	 /* You must set a specified height */
+	 height:95vh;
+	width:auto;
+	background-position: center !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
